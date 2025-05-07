@@ -1,2 +1,0 @@
-# ShopFlux
-Ecommerce platform
